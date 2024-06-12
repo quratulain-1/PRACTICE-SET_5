@@ -1,0 +1,15 @@
+div {
+    height: 200px;
+    width: 400px;
+    background-image: url(./anonymousprofile.jpg);
+    background-repeat: no-repeat;
+    color: goldenrod;
+    position: absolute;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-decoration: overline;
+    text-transform: uppercase;
+    background-size: cover;
+    font-weight: bolder;
+}
